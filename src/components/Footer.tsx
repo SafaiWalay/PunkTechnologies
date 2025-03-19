@@ -88,7 +88,7 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li>Plot No 62, Panchsheel Nagar</li>
               <li>Isasani, Hingna Road</li>
-              <li>Nagpur 440016</li>
+              <li>Nagpur 440019</li>
               <li>support@punktech.in</li>
               <li>+91 88560-49526</li>
             </ul>
